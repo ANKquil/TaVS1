@@ -7,6 +7,9 @@
 Для запуска нужно:
 1. Скачать [CurrencyConverter.py]
 2. Запуск через компилятор языка [Python], например PyCharm: IDE.
+[PyCharm: IDE](https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows "PyCharm: IDE")
+
+> PyCharm: IDE
 
 Функционал приложения:
 * Курсы валют (Конвертер валюты)
